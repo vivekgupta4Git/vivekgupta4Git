@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=vivekgupta4Git)
 # 👋 Hi, I’m Vivek Gupta
 
 ## 🚀 About Me
@@ -13,10 +14,6 @@
 - **Frameworks:** Android SDK, Jetpack Components, Retrofit, Dagger/Hilt, Room
 - **Tools:** Android Studio, Git, Gradle, Firebase, REST APIs
 - **Practices:** MVVM architecture, Dependency Injection, Unit/UI Testing, Agile methodologies
-
-## 📈 GitHub Stats
-
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekgupta4git&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
