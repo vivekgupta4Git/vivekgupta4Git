@@ -25,7 +25,7 @@
 I love exploring new places and am always up for a tech talk over a cup of coffee!
 
 ## Fun on Weekends 
-Visit https://www.ruviapps.com
+Visit https://ruviapps.com
 ---
 
 _Thanks for visiting my profile! Let’s build something amazing together._
